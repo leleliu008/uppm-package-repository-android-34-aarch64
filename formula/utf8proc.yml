@@ -1,0 +1,5 @@
+summary: A small, clean C library for processing UTF-8 Unicode data
+webpage: https://juliastrings.github.io/utf8proc
+version: 2.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/utf8proc-2.9.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: cd589675bcf3c60050532b9c00c459f99cdd5c620babd4faed0d9972f6bfb91a

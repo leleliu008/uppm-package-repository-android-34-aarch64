@@ -1,0 +1,5 @@
+summary: A cross-platform audio library
+webpage: https://www.xiph.org/ao
+version: 1.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libao-1.2.2-android-34-arm64-v8a.release.tar.xz
+bin-sha: aa1e5af54f5d75e24e782852db182aef7e7798e4129e4472b9c8d522a73c2278

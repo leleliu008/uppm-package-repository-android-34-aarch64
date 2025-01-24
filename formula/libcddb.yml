@@ -1,0 +1,5 @@
+summary: CDDB server access library
+webpage: https://libcddb.sourceforge.io
+version: 1.3.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libcddb-1.3.2-android-34-arm64-v8a.release.tar.xz
+bin-sha: 17c80549a02bb54d50bef6d2fdb6f4777f24c2798ecd85ef109998f0cce55d65

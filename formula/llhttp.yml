@@ -1,0 +1,5 @@
+summary: http_parser replacement
+webpage: https://llhttp.org/
+version: 6.0.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/llhttp-6.0.6-android-34-arm64-v8a.release.tar.xz
+bin-sha: 24c7e0d8cbd7357f45abe01dad0354da88145a6c26d5d7848f77453933c44e55

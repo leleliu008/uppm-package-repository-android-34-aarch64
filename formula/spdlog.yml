@@ -1,0 +1,5 @@
+summary: Super fast C++ logging library
+webpage: https://github.com/gabime/spdlog
+version: 1.14.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/spdlog-1.14.1-android-34-arm64-v8a.release.tar.xz
+bin-sha: 57a6e11dfc240f42da44f869807ddad162630ef009d6c536a520690923554346

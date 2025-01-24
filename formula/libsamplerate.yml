@@ -1,0 +1,5 @@
+summary: An audio sample rate conversion library
+webpage: https://github.com/libsndfile/libsamplerate
+version: 0.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libsamplerate-0.2.2-android-34-arm64-v8a.release.tar.xz
+bin-sha: d15408053386fd8e8f98984195abadf9fed374e4ad5a6b38c8ff8394f1a49bf3

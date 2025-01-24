@@ -1,0 +1,5 @@
+summary: Create and view interactive cheat sheets for *nix commands
+webpage: https://github.com/cheat/cheat
+version: 4.4.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/cheat-4.4.2-android-34-arm64-v8a.release.tar.xz
+bin-sha: 1df9c3444df73858749efde3747890d9e2fb332d1ae1ab90d7e66f7345d8d07c

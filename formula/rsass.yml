@@ -1,0 +1,5 @@
+summary: Sass reimplemented in rust with nom
+webpage: https://github.com/kaj/rsass
+version: 0.23.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/rsass-0.23.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: afac2040044358aaa91736aae1b9035e0506bb6c37859b1a3b8e91e9f85461dd

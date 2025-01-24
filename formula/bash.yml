@@ -1,0 +1,5 @@
+summary: Bourne-Again SHell, a UNIX command interpreter
+webpage: https://www.gnu.org/software/bash
+version: 5.2.37
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/bash-5.2.37-android-34-arm64-v8a.release.tar.xz
+bin-sha: f4e1a19fe203f8f455f53e1acd03203be1917998306f4f1203ab28a7bd95f00f

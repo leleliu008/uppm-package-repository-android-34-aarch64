@@ -1,0 +1,5 @@
+summary: C library and utilities for Manipulating POSIX Access Control Lists
+webpage: https://savannah.nongnu.org/projects/acl
+version: 2.3.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/acl-2.3.2-android-34-arm64-v8a.release.tar.xz
+bin-sha: 23615ba44300283b5581c203eb6208d91103737ba4c766934202aef7fc234b1d

@@ -1,0 +1,5 @@
+summary: DCE compatible Universally Unique Identifier library
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libmount-2.40.2-android-34-arm64-v8a.release.tar.xz
+bin-sha: 5b2883c5da8c36bcf116230384644797d6810e34efb6c6a047f529f90a5764b2

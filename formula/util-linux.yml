@@ -1,0 +1,5 @@
+summary: A collection of Linux utilities
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/util-linux-2.40.2-android-34-arm64-v8a.release.tar.xz
+bin-sha: 40e5f6505f962a9713b01a5546be0e2afefee491c522ecc748c0522ec50cae4c

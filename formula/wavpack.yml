@@ -1,0 +1,5 @@
+summary: Hybrid lossless audio compression
+webpage: https://www.wavpack.com/
+version: 5.7.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/wavpack-5.7.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: 889f66ad2e4971ae01a824692e3e6fe48431cb92431ccaaced3b7ab067ff420b

@@ -1,0 +1,5 @@
+summary: Tools and libraries to manipulate images in many formats
+webpage: https://imagemagick.org/
+version: 7.1.1.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/imagemagick-7.1.1.15-android-34-arm64-v8a.release.tar.xz
+bin-sha: e9f42e2b67b4f8e5bc7be37f1b2e985a158e12ce5492eeb30207842e666ef402

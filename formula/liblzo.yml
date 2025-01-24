@@ -1,0 +1,5 @@
+summary: Real-time data compression library
+webpage: https://www.oberhumer.com/opensource/lzo
+version: 2.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/liblzo-2.10-android-34-arm64-v8a.release.tar.xz
+bin-sha: 6619acff859d4409a43dd48383afb4d74c7213a7e3038c13e7183554d0a2d661

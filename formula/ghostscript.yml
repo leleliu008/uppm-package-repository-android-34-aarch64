@@ -1,0 +1,5 @@
+summary: An interpreter for PostScript and PDF
+webpage: https://www.ghostscript.com/
+version: 10.03.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/ghostscript-10.03.1-android-34-arm64-v8a.release.tar.xz
+bin-sha: 3abe30c6ae95e7cbb565be6c5b7a91260d60b2dcc308456aa0d7694a397cf829

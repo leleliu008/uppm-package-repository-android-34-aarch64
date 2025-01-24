@@ -1,0 +1,5 @@
+summary: Terminal multiplexer
+webpage: https://tmux.github.io
+version: 3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/tmux-3.4-android-34-arm64-v8a.release.tar.xz
+bin-sha: 0393afe34328b7c30cca0efd4bf926c33ea67bda8f295ed79997d7fef52bc0b5

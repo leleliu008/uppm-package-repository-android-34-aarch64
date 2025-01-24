@@ -1,0 +1,5 @@
+summary: Double-Array Trie Library
+webpage: https://linux.thai.net/~thep/datrie/datrie.html
+version: 0.2.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libdatrie-0.2.13-android-34-arm64-v8a.release.tar.xz
+bin-sha: 865b985a412f8be58072cb35bf059810106bcc72209ce75fe91d3339c2a7bfa7

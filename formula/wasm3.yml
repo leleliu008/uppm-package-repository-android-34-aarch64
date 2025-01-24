@@ -1,0 +1,5 @@
+summary: High performance WebAssembly interpreter
+webpage: https://github.com/wasm3/wasm3
+version: 0.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/wasm3-0.5.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: ee80e03235185d1e8d8068d2caf8fac9e2b6428d265e7b2b3aafb78abe0342f1

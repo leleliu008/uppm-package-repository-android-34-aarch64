@@ -1,0 +1,5 @@
+summary: High-performance theorem prover
+webpage: https://github.com/Z3Prover/z3
+version: 4.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libz3-4.13.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: 42bef4e0322820f6f636b6ba2254e96b609d93900c15bcdced468c5aa6365340

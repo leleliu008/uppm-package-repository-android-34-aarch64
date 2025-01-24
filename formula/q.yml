@@ -1,0 +1,5 @@
+summary: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+webpage: https://github.com/natesales/q
+version: 0.19.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/q-0.19.1-android-34-arm64-v8a.release.tar.xz
+bin-sha: 58434b430f4f320927a277d96a7f6f3762f13bdcd0ffc9e8a2167bfb6b557b3d

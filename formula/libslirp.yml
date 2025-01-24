@@ -1,0 +1,5 @@
+summary: A general purpose TCP-IP emulator
+webpage: https://gitlab.freedesktop.org/slirp/libslirp
+version: 4.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libslirp-4.8.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: 15ae49ea6c2f2657f62e39cde67ff8de7d5c165b2b29fc09c2c089664745b842

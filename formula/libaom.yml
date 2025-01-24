@@ -1,0 +1,5 @@
+summary: Codec library for encoding and decoding AV1 video streams
+webpage: https://aomedia.googlesource.com/aom
+version: 3.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libaom-3.11.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: 3382e2777ce40e7bba2588784406eccbc82523d3227e690bfe422950416a2504

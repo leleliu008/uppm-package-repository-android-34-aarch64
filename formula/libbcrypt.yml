@@ -1,0 +1,5 @@
+summary: A password hashing method based on the Blowfish block cipher, provided via the crypt(3) and a reentrant interface
+webpage: https://www.openwall.com/crypt
+version: 2025.01.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libbcrypt-2025.01.23-android-34-arm64-v8a.release.tar.xz
+bin-sha: c9751b0f1db3445a909e3ec59b7f9398743f83706564e18452f0616c559f7954

@@ -1,0 +1,5 @@
+summary: Simple bookmark manager built with Go
+webpage: https://github.com/go-shiori/shiori
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/shiori-1.5.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: 6687b7bd1da9800864efe1c8d67c6fcaad0d4d7b869f18859261d0a283378004

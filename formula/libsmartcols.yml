@@ -1,0 +1,5 @@
+summary: DCE compatible Universally Unique Identifier library
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libsmartcols-2.40.2-android-34-arm64-v8a.release.tar.xz
+bin-sha: c1af8d7f0e9ca432ccb8a2cc55fbcbdbd6bf99934a8f5ddcad0feb093f3c7aec

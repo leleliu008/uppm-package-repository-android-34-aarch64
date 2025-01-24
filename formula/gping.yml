@@ -1,0 +1,5 @@
+summary: Ping, but with a graph
+webpage: https://github.com/orf/gping
+version: 1.19.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/gping-1.19.0-android-34-arm64-v8a.release.tar.xz
+bin-sha: def50c24b696ee87c1203b867994e8e3b96551923c097569d97f92c2655b7c61

@@ -1,0 +1,5 @@
+summary: A header only C++ library that implements RFC6455 The WebSocket Protocol
+webpage: https://www.zaphoyd.com/projects/websocketpp/
+version: 0.8.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/websocketpp-0.8.2-android-aarch64.release.tar.xz
+bin-sha: 818fae294ad8388b7fdfed223c0fc6a1634a48a91337f9b28667c43a7bb18bc5

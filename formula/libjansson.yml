@@ -1,0 +1,5 @@
+summary: C library for encoding, decoding, and manipulating JSON
+webpage: https://digip.org/jansson
+version: 2.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libjansson-2.14-android-34-arm64-v8a.release.tar.xz
+bin-sha: 99322107113f22ebfa4c72189dd3ab3c539d91201eb5d832e0ac7d2e0eb956d7

@@ -1,0 +1,5 @@
+summary: A quick-n-dirty BSD licensed clone of backtrace facility found in the GNU libc
+webpage: https://github.com/leleliu008/libexecinfo
+version: 2025.01.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-34-aarch64/releases/download/2025.01.24/libexecinfo-2025.01.23-android-34-arm64-v8a.release.tar.xz
+bin-sha: ae552fc60a8eb894faba422835b0c44e39b7ab41ac89e3cac614a54b148e4ae6
